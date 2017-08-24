@@ -1,6 +1,6 @@
 # tools
 
-myscraper.py
+## myscraper.py
 
 > It is a really dirty script : use to bulk download pdf files from webpages containing a lot of pdf links
 
